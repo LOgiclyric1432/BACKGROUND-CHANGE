@@ -1,2 +1,2 @@
 # BACKGROUND-CHANGE
-BACKGROUND CHANGING DIV LINEAR GRADIENT
+In this code i have created adiv with its linear gradiet background and it will changes continuously
